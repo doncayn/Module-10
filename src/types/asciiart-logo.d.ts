@@ -12,3 +12,4 @@ declare module 'asciiart-logo' {
 
   export function render(options: LogoConfig): void;
 }
+//asciiart-logo

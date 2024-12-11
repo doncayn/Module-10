@@ -14,14 +14,14 @@ function init() {
 
   loadMainPrompts();
 }
-
+//options for employees in different departments
 function loadMainPrompts() {
   inquirer.prompt([
     {
       type: 'list',
       name: 'choice',
-      message: 'What would you like to do?',
-      choices: [
+      text: 'What would you like to do?',
+      options: [
         {
           name: 'View All Employees',
           value: 'VIEW_EMPLOYEES',
