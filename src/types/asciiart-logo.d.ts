@@ -1,7 +1,7 @@
 declare module 'asciiart-logo' {
   export default function config(options: {
     name?: string;
-    font?: string;
+    color?: string;
     lineChars?: number;
     padding?: number;
     margin?: number;
