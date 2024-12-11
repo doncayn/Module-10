@@ -9,6 +9,9 @@ This is a Employee Tracker project that allows the user to create and select emp
 Expand
 message.txt
 3 KB
+
+<img width="1710" alt="Screenshot 2024-12-11 at 12 28 00 AM" src="https://github.com/user-attachments/assets/c33c5c3f-3519-459e-9992-2a0710ddcffd">
+
 ﻿
 # Employee Tracker 
 ![Github License](https://img.shields.io/badge/license-MIT-green)
@@ -54,3 +57,5 @@ message.txt
 3 KB
 
 <img width="1485" alt="Screenshot 2024-12-10 at 11 38 09 PM" src="https://github.com/user-attachments/assets/7a94da06-8142-4c48-ba78-1590b956ad25">
+
+https://drive.google.com/file/d/1yZsKTlLeWk2yVWz3Vr-xzSDHxVYD1OG7/view
